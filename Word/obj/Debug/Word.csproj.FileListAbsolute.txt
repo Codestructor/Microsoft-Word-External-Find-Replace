@@ -1,0 +1,44 @@
+C:\Users\MedicSef\Desktop\Word\Word\bin\Debug\Word.exe.config
+C:\Users\MedicSef\Desktop\Word\Word\bin\Debug\Word.exe
+C:\Users\MedicSef\Desktop\Word\Word\bin\Debug\Word.pdb
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.csproj.ResolveComReference.cache
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.csproj.GenerateResource.Cache
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.exe
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.pdb
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\MedicSef\Desktop\Word\Word\obj\Debug\Word.PrimeForm.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\bin\Debug\Word.exe.config
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.csproj.ResolveComReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\bin\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.PrimeForm.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\obj\Debug\Word.csproj.GenerateResource.Cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word\Word\bin\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\bin\Debug\Word.exe.config
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.csproj.ResolveComReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\bin\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\bin\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.PrimeForm.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v1.0\Word\obj\Debug\Word.csproj.GenerateResource.Cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\bin\Debug\Word.exe.config
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.csproj.ResolveComReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\bin\Debug\Word.exe
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\bin\Debug\Word.pdb
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.PrimeForm.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\MedicSef\OneDrive\Pentru scoala\Info\C#\Word_v2.0\Word\obj\Debug\Word.csproj.GenerateResource.Cache
